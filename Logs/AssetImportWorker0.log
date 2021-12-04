@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home Single Language; OS build 22504.1010; Version 2009; 64bit' Language: 'en' Physical Memory: 15789 MB
+OS: 'Windows 10 Home Single Language; OS build 22509.1000; Version 2009; 64bit' Language: 'en' Physical Memory: 15789 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,19 +11,19 @@ D:\2020.3.6f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/A-2019610003
+C:/Users/user/OneDrive/Documents/GitHub/A-2019610005
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52361
-Successfully changed project path to: D:/A-2019610003
-D:/A-2019610003
+49407
+Successfully changed project path to: C:/Users/user/OneDrive/Documents/GitHub/A-2019610005
+C:/Users/user/OneDrive/Documents/GitHub/A-2019610005
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 74.94 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 51.20 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.6f1 (338bb68529b2)
 [Subsystems] Discovering subsystems at path D:/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/A-2019610003/Assets
+[Subsystems] Discovering subsystems at path C:/Users/user/OneDrive/Documents/GitHub/A-2019610005/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -37,293 +37,263 @@ Initialize mono
 Mono path[0] = 'D:/2020.3.6f1/Editor/Data/Managed'
 Mono path[1] = 'D:/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'D:/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56680
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56084
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.000706 seconds.
+Registered in 0.000735 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 78.39 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 54.99 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.778 seconds
+- Completed reload, in  0.756 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001934 seconds.
+Registered in 0.002386 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 77.84 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 50.46 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.482 seconds
+- Completed reload, in  1.460 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Shader 'Enviro/Lite/SkyboxSimple': fallback shader 'None' not found
 Shader 'Enviro/Standard/SkyboxSimple': fallback shader 'None' not found
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 1.08 ms, found 0 plugins.
+Shader 'Enviro/Lite/SkyboxSimple': fallback shader 'None' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.69 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2223 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 225.4 MB.
-System memory in use after: 225.3 MB.
+Unloading 2217 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.5 MB.
+System memory in use after: 195.3 MB.
 
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2718.
-Total: 3.472500 ms (FindLiveObjects: 0.704500 ms CreateObjectMapping: 0.075000 ms MarkObjects: 2.081900 ms  DeleteObjects: 0.609700 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/2019610005_Ansel Caprico_Modul_Profiles/Main Camera Profile 4.asset
-  artifactKey: Guid(17decd47fb3f2654196c46bf44180b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2019610005_Ansel Caprico_Modul_Profiles/Main Camera Profile 4.asset using Guid(17decd47fb3f2654196c46bf44180b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fe97d3c6026e9254efd71596cab9059') in 0.051808 seconds
-  Import took 0.057084 seconds .
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2693.
+Total: 3.267700 ms (FindLiveObjects: 0.282700 ms CreateObjectMapping: 0.053900 ms MarkObjects: 2.608200 ms  DeleteObjects: 0.321600 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000423 seconds.
-  path: Assets/2019610005_Ansel Caprico_Modul_Profiles
-  artifactKey: Guid(40b9777c71fd5ea4680154ad6a01cf29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/2019610005_Ansel Caprico_Modul_Profiles using Guid(40b9777c71fd5ea4680154ad6a01cf29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '712917dae1156fe011a01ec529c418db') in 0.008612 seconds
-  Import took 0.012252 seconds .
+  path: Assets/Audio
+  artifactKey: Guid(5cf34cff859aefb4baa051960c6e5f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio using Guid(5cf34cff859aefb4baa051960c6e5f05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe0215c6c7eab2b4a1ca40d787134e78') in 0.013411 seconds
+  Import took 0.017369 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 10.243075 seconds.
-  path: Assets/Scene/MainMenu.unity
-  artifactKey: Guid(668065b71c6efae43bc7ba8cd786d190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scene/MainMenu.unity using Guid(668065b71c6efae43bc7ba8cd786d190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '679d04ff84a57475b0b3a95dcf221847') in 0.009380 seconds
-  Import took 0.013380 seconds .
+Received Prepare
+Shader 'Enviro/Standard/SkyboxSimple': fallback shader 'None' not found
+Shader 'Enviro/Lite/SkyboxSimple': fallback shader 'None' not found
+Refreshing native plugins compatible for Editor in 2.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.2 MB.
+System memory in use after: 143.0 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2693.
+Total: 2.755200 ms (FindLiveObjects: 0.253100 ms CreateObjectMapping: 0.052800 ms MarkObjects: 2.116400 ms  DeleteObjects: 0.331400 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002072 seconds.
+Registered in 0.002973 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.767 seconds
+- Completed reload, in  0.874 seconds
 Platform modules already initialized, skipping
-Shader 'Enviro/Lite/SkyboxSimple': fallback shader 'None' not found
 Shader 'Enviro/Standard/SkyboxSimple': fallback shader 'None' not found
-Refreshing native plugins compatible for Editor in 0.93 ms, found 0 plugins.
+Shader 'Enviro/Lite/SkyboxSimple': fallback shader 'None' not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 214.6 MB.
-System memory in use after: 214.5 MB.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 184.8 MB.
+System memory in use after: 184.6 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2723.
-Total: 3.100700 ms (FindLiveObjects: 0.271900 ms CreateObjectMapping: 0.057900 ms MarkObjects: 2.221800 ms  DeleteObjects: 0.548100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 147.615862 seconds.
-  path: Assets/Horse Animset Pro (Riding System) v4.2.2b (1).unitypackage
-  artifactKey: Guid(60e847425be8d774abfbf375dbfe3208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Horse Animset Pro (Riding System) v4.2.2b (1).unitypackage using Guid(60e847425be8d774abfbf375dbfe3208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f48fd68579dd3c69c4ef9ee6146e591') in 0.138983 seconds
-  Import took 0.144226 seconds .
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2698.
+Total: 3.000500 ms (FindLiveObjects: 0.316000 ms CreateObjectMapping: 0.106200 ms MarkObjects: 2.252400 ms  DeleteObjects: 0.324100 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 207.584083 seconds.
-  path: Assets/Malbers Animations
-  artifactKey: Guid(ee8eec921ed05b54dbe221df03e44de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Malbers Animations using Guid(ee8eec921ed05b54dbe221df03e44de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e627a86d60cef1bbc6350e928333e4ad') in 0.008696 seconds
-  Import took 0.012792 seconds .
+  Time since last request: 132.734214 seconds.
+  path: Assets/Prefabs/Game Over.prefab
+  artifactKey: Guid(8480cdcd7602ef843ae3908eb5cba53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Game Over.prefab using Guid(8480cdcd7602ef843ae3908eb5cba53a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f8b77f27d8cd3491db2e858651bc8e0') in 0.088978 seconds
+  Import took 0.093036 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.285909 seconds.
-  path: Assets/Malbers Animations/ChangeLog.asset
-  artifactKey: Guid(4334b4f5c2fea58458f3dd4064477319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Malbers Animations/ChangeLog.asset using Guid(4334b4f5c2fea58458f3dd4064477319) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '193a2f365ec68e0a8f172e708c4fc7aa') in 0.007985 seconds
-  Import took 0.012298 seconds .
+  Time since last request: 262.927588 seconds.
+  path: Assets/Standard Assets/2D/Sprites/RobotBoyRollSprite.png
+  artifactKey: Guid(fc67a9002ed4034419f91d0d85bd6b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/2D/Sprites/RobotBoyRollSprite.png using Guid(fc67a9002ed4034419f91d0d85bd6b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4497133783016fc569c2d18223af4e0') in 0.171708 seconds
+  Import took 0.176382 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000357 seconds.
-  path: Assets/Malbers Animations/README! Horse Animset Pro.asset
-  artifactKey: Guid(ad639cee5f3a3534b9a7a54a7c0184ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Malbers Animations/README! Horse Animset Pro.asset using Guid(ad639cee5f3a3534b9a7a54a7c0184ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e516cc575b12c1ab2ca17f2206950513') in 0.008512 seconds
-  Import took 0.012477 seconds .
+  Time since last request: 0.000314 seconds.
+  path: Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png
+  artifactKey: Guid(0626b924325d1c34cafa6b22297f4e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png using Guid(0626b924325d1c34cafa6b22297f4e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f31d02eb3a3d79f02761defcbec6e31') in 0.026048 seconds
+  Import took 0.030225 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000404 seconds.
-  path: Assets/Malbers Animations/UPGRADING to AC 1.2+ HAP 4.2+!!!!!.asset
-  artifactKey: Guid(43ea0055a676dd64fb5ea7902cc5f7f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Malbers Animations/UPGRADING to AC 1.2+ HAP 4.2+!!!!!.asset using Guid(43ea0055a676dd64fb5ea7902cc5f7f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3632eeb7126013618e215905d368f74') in 0.009140 seconds
-  Import took 0.013011 seconds .
+  Time since last request: 0.000288 seconds.
+  path: Assets/Standard Assets/2D/Sprites/RobotBoyWalkSprite.png
+  artifactKey: Guid(feda0c18015b3284cabbc0da85254f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/2D/Sprites/RobotBoyWalkSprite.png using Guid(feda0c18015b3284cabbc0da85254f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54686395d8a4e70a158f2186f6b3c09a') in 0.123499 seconds
+  Import took 0.127809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png
+  artifactKey: Guid(ea5873cfd9158664f89459f0c9e1d853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png using Guid(ea5873cfd9158664f89459f0c9e1d853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86d42fe6a10d5b2709b2fb8d6fffd9ea') in 0.026772 seconds
+  Import took 0.031361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png
+  artifactKey: Guid(e4f1fee3de32377429fd1348fae62b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png using Guid(e4f1fee3de32377429fd1348fae62b10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c98315d7c8b902ac48f96a3ad8cc6ddf') in 0.032271 seconds
+  Import took 0.036360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Standard Assets/2D/Sprites/RobotBoyRunSprite.png
+  artifactKey: Guid(803baf1ea73913f46b25e07d0a79df22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/2D/Sprites/RobotBoyRunSprite.png using Guid(803baf1ea73913f46b25e07d0a79df22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d589e3b88d3514a9c835ba3d22e2538') in 0.107590 seconds
+  Import took 0.111767 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001967 seconds.
+Registered in 0.002412 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.766 seconds
+- Completed reload, in  0.793 seconds
 Platform modules already initialized, skipping
-Shader 'Enviro/Lite/SkyboxSimple': fallback shader 'None' not found
 Shader 'Enviro/Standard/SkyboxSimple': fallback shader 'None' not found
+Shader 'Enviro/Lite/SkyboxSimple': fallback shader 'None' not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.8 MB.
+System memory in use after: 187.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2711.
+Total: 2.521300 ms (FindLiveObjects: 0.311500 ms CreateObjectMapping: 0.089000 ms MarkObjects: 1.811800 ms  DeleteObjects: 0.307400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002920 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.976 seconds
+Platform modules already initialized, skipping
+Shader 'Enviro/Standard/SkyboxSimple': fallback shader 'None' not found
+Shader 'Enviro/Lite/SkyboxSimple': fallback shader 'None' not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.9 MB.
+System memory in use after: 187.6 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2716.
+Total: 3.938800 ms (FindLiveObjects: 0.363600 ms CreateObjectMapping: 0.058200 ms MarkObjects: 2.818500 ms  DeleteObjects: 0.694900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004047 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 218.1 MB.
-System memory in use after: 218.0 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2730.
-Total: 3.359700 ms (FindLiveObjects: 0.485200 ms CreateObjectMapping: 0.152800 ms MarkObjects: 2.181600 ms  DeleteObjects: 0.538200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002113 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.747 seconds
+- Completed reload, in  1.101 seconds
 Platform modules already initialized, skipping
-Shader 'Enviro/Lite/SkyboxSimple': fallback shader 'None' not found
 Shader 'Enviro/Standard/SkyboxSimple': fallback shader 'None' not found
-Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 218.2 MB.
-System memory in use after: 218.0 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2735.
-Total: 3.284700 ms (FindLiveObjects: 0.447700 ms CreateObjectMapping: 0.061300 ms MarkObjects: 2.161700 ms  DeleteObjects: 0.611200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001921 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.734 seconds
-Platform modules already initialized, skipping
 Shader 'Enviro/Lite/SkyboxSimple': fallback shader 'None' not found
-Shader 'Enviro/Standard/SkyboxSimple': fallback shader 'None' not found
-Refreshing native plugins compatible for Editor in 0.92 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.44 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 218.1 MB.
-System memory in use after: 218.0 MB.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 187.9 MB.
+System memory in use after: 187.7 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2740.
-Total: 3.281000 ms (FindLiveObjects: 0.274700 ms CreateObjectMapping: 0.083300 ms MarkObjects: 2.320300 ms  DeleteObjects: 0.600800 ms)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2721.
+Total: 6.158200 ms (FindLiveObjects: 0.487300 ms CreateObjectMapping: 0.083700 ms MarkObjects: 4.711900 ms  DeleteObjects: 0.872900 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 154.792260 seconds.
-  path: Assets/Scene/MainScene.unity
-  artifactKey: Guid(d0df3142c2b6e824db4ad0a2e7ffe7e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scene/MainScene.unity using Guid(d0df3142c2b6e824db4ad0a2e7ffe7e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661c41ae0f304ae15ac32c65e67d8483') in 0.144702 seconds
-  Import took 0.149679 seconds .
+  Time since last request: 1027.458762 seconds.
+  path: Assets/Scripts/SaveSystem.cs
+  artifactKey: Guid(42f365d530daad94aa66c19f200ea359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SaveSystem.cs using Guid(42f365d530daad94aa66c19f200ea359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83fbfcb1e2d83b5c714b83736dac33ec') in 0.021649 seconds
+  Import took 0.027074 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 43.897670 seconds.
-  path: Assets/Cyborg/Scenes
-  artifactKey: Guid(d60467e24d4a0f848bb2b66e28dfa727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cyborg/Scenes using Guid(d60467e24d4a0f848bb2b66e28dfa727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb951bdd0c4043ec810869b43b7433cb') in 0.008007 seconds
-  Import took 0.012856 seconds .
+  Time since last request: 1.641601 seconds.
+  path: Assets/Scripts/SceneLoader.cs
+  artifactKey: Guid(6f48cda548c4306449804018d187dbc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SceneLoader.cs using Guid(6f48cda548c4306449804018d187dbc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '733aa2a253ebb06ce8cce8068f9e64eb') in 0.012707 seconds
+  Import took 0.017256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.532869 seconds.
+  path: Assets/Scripts/obstacle.cs
+  artifactKey: Guid(672bdd158dbed224abbebb2241d1c314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/obstacle.cs using Guid(672bdd158dbed224abbebb2241d1c314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2afd5444c5beeaab8a71628ef151ad6a') in 0.012763 seconds
+  Import took 0.018061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.661051 seconds.
+  path: Assets/Scripts/sistem_darah.cs
+  artifactKey: Guid(f654cf288c1e2644f97792194255a995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/sistem_darah.cs using Guid(f654cf288c1e2644f97792194255a995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e97589b3252daec7da83b81a7131f7e6') in 0.012999 seconds
+  Import took 0.018270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003853 seconds.
+  path: Assets/Scripts/sistem_darah.cs
+  artifactKey: Guid(f654cf288c1e2644f97792194255a995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/sistem_darah.cs using Guid(f654cf288c1e2644f97792194255a995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e97589b3252daec7da83b81a7131f7e6') in 0.003698 seconds
+  Import took 0.007858 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001941 seconds.
+Registered in 0.003050 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.98 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.75 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.794 seconds
+- Completed reload, in  0.983 seconds
 Platform modules already initialized, skipping
-Shader 'Enviro/Lite/SkyboxSimple': fallback shader 'None' not found
 Shader 'Enviro/Standard/SkyboxSimple': fallback shader 'None' not found
-Refreshing native plugins compatible for Editor in 0.97 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 218.2 MB.
-System memory in use after: 218.1 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2745.
-Total: 3.557900 ms (FindLiveObjects: 0.311400 ms CreateObjectMapping: 0.058300 ms MarkObjects: 2.545100 ms  DeleteObjects: 0.641200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002092 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.16 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.804 seconds
-Platform modules already initialized, skipping
 Shader 'Enviro/Lite/SkyboxSimple': fallback shader 'None' not found
-Shader 'Enviro/Standard/SkyboxSimple': fallback shader 'None' not found
-Refreshing native plugins compatible for Editor in 1.08 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2109 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 218.2 MB.
-System memory in use after: 218.1 MB.
+Unloading 2105 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.0 MB.
+System memory in use after: 187.8 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2750.
-Total: 4.003200 ms (FindLiveObjects: 0.458100 ms CreateObjectMapping: 0.093300 ms MarkObjects: 2.785500 ms  DeleteObjects: 0.663800 ms)
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2726.
+Total: 3.922900 ms (FindLiveObjects: 0.692300 ms CreateObjectMapping: 0.091700 ms MarkObjects: 2.718500 ms  DeleteObjects: 0.417000 ms)
 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001695 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.30 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.855 seconds
-Platform modules already initialized, skipping
-Shader 'Enviro/Lite/SkyboxSimple': fallback shader 'None' not found
-Shader 'Enviro/Standard/SkyboxSimple': fallback shader 'None' not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2103 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 217.4 MB.
-System memory in use after: 217.3 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2749.
-Total: 4.985700 ms (FindLiveObjects: 0.900400 ms CreateObjectMapping: 0.268700 ms MarkObjects: 2.838400 ms  DeleteObjects: 0.975800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001685 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.784 seconds
-Platform modules already initialized, skipping
-Shader 'Enviro/Lite/SkyboxSimple': fallback shader 'None' not found
-Shader 'Enviro/Standard/SkyboxSimple': fallback shader 'None' not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2103 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 217.4 MB.
-System memory in use after: 217.3 MB.
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2754.
-Total: 4.122600 ms (FindLiveObjects: 0.677400 ms CreateObjectMapping: 0.200100 ms MarkObjects: 2.560700 ms  DeleteObjects: 0.681900 ms)
-
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
